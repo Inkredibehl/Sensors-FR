@@ -1,0 +1,10 @@
+ItemName_FR = {
+    LightSensors.LSElectronicsMag = "Magazine électronique Vol. 5 Capteurs",
+    LightSensors.LSLightSensor = "Détecteur de lumière",
+    LightSensors.LSProxySensor = "Détecteur de proximité",
+    LightSensors.LSZombieSensor = "Détecteur de zombie",
+    LightSensors.LSRoomSensor = "Détecteur de piéce",
+    LightSensors.LSTemperatureSensor = "Détecteur de température",
+    LightSensors.LSRainSensor = "Détecteur de pluie",
+    LightSensors.LSPowerSensor = "Détecteur de courant",
+}

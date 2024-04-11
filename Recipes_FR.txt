@@ -1,0 +1,9 @@
+Recipes_FR = {
+    Recipe_Make_Light_Sensor = "Fabriquer un Détecteur de lumière",
+    Recipe_Make_Proximity_Sensor = "Fabriquer un Détecteur de proximité",
+    Recipe_Make_Zombie_Sensor = "Fabriquer un Détecteur de zombie",
+    Recipe_Make_Room_Sensor = "Fabriquer un Détecteur de piéce",
+    Recipe_Make_Temperature_Sensor = "Fabriquer un Détecteur de température",
+    Recipe_Rain_Sensor = "Fabriquer un Détecteur de pluie",
+    Recipe_Make_Power_Sensor = "Fabriquer un Détecteur de courant",
+}
